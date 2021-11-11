@@ -1,6 +1,6 @@
 # dynamodb-json-to-json
 
-    npm install
+    npm install --production
 
 
     npm start <path to file.json>
